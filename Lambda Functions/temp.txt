@@ -1,0 +1,13 @@
+DiningSuggestionsIntent
+
+reservationDateSuggest me some restaurant
+
+reservationDatesuggest something good to eat in ny
+
+reservationDateSuggest some good ch cuisine resturant in ny
+
+I want to eat something in ny
+
+I Want to eat something
+
+I am looking for resturant
